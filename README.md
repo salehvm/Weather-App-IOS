@@ -87,7 +87,7 @@ Update  the pods
 ```
 
 ## License
-
+Saleh Majidov
 
 ## Special Thanks to
 
