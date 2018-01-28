@@ -87,7 +87,7 @@ Update  the pods
 ```
 
 ## License
-Saleh Majidov
+Saleh Majidov (https://github.com/salehvm/Weather-App-IOS/blob/master/LICENSE)
 
 ## Special Thanks to
 
