@@ -1,5 +1,5 @@
 # Weather-App-IOS
-Support All devices Iphon
+Support All devices Iphone
 
 
 FRAMEWORK 
